@@ -14,27 +14,16 @@ The goal of this folder is to practice and strengthen my understanding of core H
 
 ## Projects
 
-| Project | Folder | Status | Description |
-|---------|--------|:------:|-------------|
-| Single-Page CV | `single-page-cv` | ⏳ | A one-page CV using semantic HTML. |
-| Basic HTML Website | `basic-html-website` | ⏳ | A simple multi-page HTML website. |
-| Pricing Comparison Table | `pricing-comparison-table` | ⏳ | An accessible HTML pricing table. |
-| Blog Post Page | `blog-post-page` | ⏳ | A semantic blog post layout. |
-| Contact Form | `contact-form` | ⏳ | An accessible HTML contact form. |
-| Photo Showcase | `photo-showcase` | ⏳ | A gallery page with images and video. |
+| Project | Status | Description |
+|---------|:------:|-------------|
+| [Single-Page CV](./single-page-cv) | ⏳ | A one-page CV using semantic HTML. |
+| [Basic HTML Website](./basic-html-website) | ⏳ | A simple multi-page HTML website. |
+| [Pricing Comparison Table](./pricing-comparison-table) | ⏳ | An accessible HTML pricing table. |
+| [Blog Post Page](./blog-post-page) | ⏳ | A semantic blog post layout. |
+| [Contact Form](./contact-form) | ⏳ | An accessible HTML contact form. |
+| [Photo Showcase](./photo-showcase) | ⏳ | A gallery page with images and video. |
 
 > This table will be updated as I complete more projects.
-
-## Folder Structure
-
-```text
-HTML Projects/
-├── Project 01 - Single-Page CV/
-├── Project 02 - Basic HTML Website/
-├── Project 03 - Personal Portfolio/
-├── ...
-└── README.md
-```
 
 ## Learning Source
 
