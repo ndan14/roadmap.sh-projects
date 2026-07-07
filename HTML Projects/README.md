@@ -16,7 +16,7 @@ The goal of this folder is to practice and strengthen my understanding of core H
 
 | Project | Status | Description |
 |---------|:------:|-------------|
-| [Single-Page CV](./single-page-cv) | ⏳ | A one-page CV using semantic HTML. |
+| [Single-Page CV](./single-page-cv) | ✅ | A one-page CV using semantic HTML. |
 | [Basic HTML Website](./basic-html-website) | ⏳ | A simple multi-page HTML website. |
 | [Pricing Comparison Table](./pricing-comparison-table) | ⏳ | An accessible HTML pricing table. |
 | [Blog Post Page](./blog-post-page) | ⏳ | A semantic blog post layout. |
