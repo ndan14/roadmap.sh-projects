@@ -34,7 +34,6 @@ These projects are based on the HTML roadmap and project ideas from:
 ## Notes
 
 - Every project is built as part of my learning journey.
-- Each project may include its own `README.md` with additional information.
 - This folder focuses on **HTML only**. CSS and JavaScript may be introduced later in other roadmap sections.
 
 ---
